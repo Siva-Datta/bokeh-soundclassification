@@ -1,0 +1,5 @@
+KNearestNeighbor
+RandomForest
+SupportVectorClassifier
+LinearSVC
+

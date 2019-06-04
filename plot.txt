@@ -1,0 +1,7 @@
+Prediction
+KNN-Score_vs_n
+KNN-Score_vs_p
+RandomForest-Score_vs_n-estimators
+RandomForest-Score_vs_max-depth
+RandomForest-Score_vs_max-features
+FeatureImportance
